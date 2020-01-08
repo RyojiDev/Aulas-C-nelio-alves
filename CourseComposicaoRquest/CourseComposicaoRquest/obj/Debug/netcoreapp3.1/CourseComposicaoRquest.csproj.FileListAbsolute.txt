@@ -1,0 +1,11 @@
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\bin\Debug\netcoreapp3.1\CourseComposicaoRquest.exe
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\bin\Debug\netcoreapp3.1\CourseComposicaoRquest.deps.json
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\bin\Debug\netcoreapp3.1\CourseComposicaoRquest.runtimeconfig.json
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\bin\Debug\netcoreapp3.1\CourseComposicaoRquest.runtimeconfig.dev.json
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\bin\Debug\netcoreapp3.1\CourseComposicaoRquest.dll
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\bin\Debug\netcoreapp3.1\CourseComposicaoRquest.pdb
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\obj\Debug\netcoreapp3.1\CourseComposicaoRquest.csprojAssemblyReference.cache
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\obj\Debug\netcoreapp3.1\CourseComposicaoRquest.AssemblyInfoInputs.cache
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\obj\Debug\netcoreapp3.1\CourseComposicaoRquest.AssemblyInfo.cs
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\obj\Debug\netcoreapp3.1\CourseComposicaoRquest.dll
+C:\Users\Ryoji FitBank\Documents\Ryoji-Projetos\CourseComposicaoRquest\CourseComposicaoRquest\obj\Debug\netcoreapp3.1\CourseComposicaoRquest.pdb
