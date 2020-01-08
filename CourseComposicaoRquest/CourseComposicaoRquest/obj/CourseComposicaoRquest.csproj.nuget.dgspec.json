@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\CourseComposicaoRquest\\CourseComposicaoRquest\\CourseComposicaoRquest.csproj": {}
+    "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\C#\\CourseComposicaoRquest\\CourseComposicaoRquest\\CourseComposicaoRquest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\CourseComposicaoRquest\\CourseComposicaoRquest\\CourseComposicaoRquest.csproj": {
+    "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\C#\\CourseComposicaoRquest\\CourseComposicaoRquest\\CourseComposicaoRquest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\CourseComposicaoRquest\\CourseComposicaoRquest\\CourseComposicaoRquest.csproj",
+        "projectUniqueName": "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\C#\\CourseComposicaoRquest\\CourseComposicaoRquest\\CourseComposicaoRquest.csproj",
         "projectName": "CourseComposicaoRquest",
-        "projectPath": "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\CourseComposicaoRquest\\CourseComposicaoRquest\\CourseComposicaoRquest.csproj",
+        "projectPath": "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\C#\\CourseComposicaoRquest\\CourseComposicaoRquest\\CourseComposicaoRquest.csproj",
         "packagesPath": "C:\\Users\\Ryoji FitBank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\CourseComposicaoRquest\\CourseComposicaoRquest\\obj\\",
+        "outputPath": "C:\\Users\\Ryoji FitBank\\Documents\\Ryoji-Projetos\\C#\\CourseComposicaoRquest\\CourseComposicaoRquest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ryoji FitBank\\AppData\\Roaming\\NuGet\\NuGet.Config",
