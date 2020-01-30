@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<button class="checkout">Checkout</button>
+<button class="consultaTransacao">Consulta transação</button>
+
+<script src="~/Scripts/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $(".checkout").click(function () {
+            if (confirm("Tem certeza que deseja fazer checkout no pagseguro?")) {
+
+                $.ajax({
+                    url: "/Home/Checkout",
+                    method: "post",
+                    type: "json",
+                    success: function (data) {
+                        window.location = data;
+                    }
+                });
+            }
+        });
+
+        $(".consultaTransacao").click(function () {
+            if (confirm("Tem certeza que deseja consultar transação?")) {
+
+                $.ajax({
+                    url: "/Home/ConsultaTransacao",
+                    method: "post",
+                    type: "json",
+                    success: function (data) {
+                        alert(data);
+                    }
+                })
+            }
+        });
+
+    });
+</script>

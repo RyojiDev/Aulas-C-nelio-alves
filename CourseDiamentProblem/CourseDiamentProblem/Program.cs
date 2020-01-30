@@ -2,6 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 using CourseDiamentProblem.Devices;
+using CourseDiamentProblem.Model.Entititys;
 
 namespace CourseDiamentProblem
 {
@@ -22,20 +23,22 @@ namespace CourseDiamentProblem
             c.Print("My dissertation");
             Console.WriteLine(c.Scan());*/
 
+
+            /*================= Icomparable =================*/
             string path = @"c:\temp\in.txt";
 
             try
             {
                 using(StreamReader sr = File.OpenText(path))
                 {
-                    List<string> list = new List<string>();
+                    List<Employee> list = new List<Employee>();
                     while (!sr.EndOfStream)
                     {
-                        list.Add(sr.ReadLine());
+                        list.Add(new Employee(sr.ReadLine()));
                     }
                     list.Sort();
-                    foreach(string str in list){
-                        Console.WriteLine(str);
+                    foreach(Employee emp in list){
+                        Console.WriteLine(emp);
                     }
 
                 }
@@ -45,6 +48,10 @@ namespace CourseDiamentProblem
                 Console.WriteLine("An error occurred");
                 Console.WriteLine(e.Message);
             }
+
+            /*================= Exercicio =================*/
+
+
         }
     }
 }
